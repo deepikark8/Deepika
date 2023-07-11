@@ -1,0 +1,13 @@
+Ref Link :  https://www.youtube.com/watch?v=P5CLXIC7x5c&list=PLFh6J1ZHhqNjwQr51z25gbZ8mMeQUswaV&index=13
+
+
+cd /Users/rahade/SeleniumGrid
+
+
+java -jar selenium-server-4.10.0.jar hub  -> to start hub
+
+
+java -jar selenium-server-4.10.0.jar node --detect-drivers true -> to strat node and to detect drivers in the path
+
+In Different Machine download the jar and browser and put it in a folder and to register node 
+java -jar selenium-server-4.10.0.jar node --detect-drivers true —publish-events tcp://192.168.86.250:4442 --subscribe-events tcp://192.168.86.4443 —> to create a node and register the node and it ping the port 4442 and 4443
