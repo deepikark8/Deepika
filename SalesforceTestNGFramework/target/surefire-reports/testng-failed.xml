@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Salesforce]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="password" value="password@123"/>
+  <parameter name="url" value="https://teka-dev-ed.develop.my.salesforce.com/"/>
+  <parameter name="username" value="deepika@mh.com"/>
+  <test thread-count="5" name="Login(failed)" verbose="0">
+    <classes>
+      <class name="com.salesforce.testcases.UserMenuDropDownTest">
+        <methods>
+          <include name="TC09"/>
+          <include name="TC06" invocation-numbers="0"/>
+          <include name="teardown"/>
+          <include name="TC07"/>
+          <include name="TC08"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.salesforce.testcases.UserMenuDropDownTest -->
+    </classes>
+  </test> <!-- Login(failed) -->
+</suite> <!-- Failed suite [Salesforce] -->

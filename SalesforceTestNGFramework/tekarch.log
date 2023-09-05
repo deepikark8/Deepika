@@ -1,0 +1,458 @@
+2023-03-27 12:25:17,719 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 12:25:47,698 INFO  [Log] About Tab passed 
+2023-03-27 12:25:54,366 INFO  [Log] Share Post passed 
+2023-03-27 12:26:01,015 INFO  [Log] Share file passed 
+2023-03-27 12:26:24,227 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 12:26:58,143 INFO  [Log] About Tab passed 
+2023-03-27 12:27:05,197 INFO  [Log] Share Post passed 
+2023-03-27 12:27:11,964 INFO  [Log] Share file passed 
+2023-03-27 15:35:48,048 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:36:25,412 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:37:21,327 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:37:37,620 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 15:37:56,311 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:38:11,405 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 15:40:25,845 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:40:40,493 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 15:40:46,703 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:42:50,806 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:42:50,917 INFO  [Log] enterUsername passed 
+2023-03-27 15:42:59,393 INFO  [Log] userMenu passed 
+2023-03-27 15:43:02,754 INFO  [Log] myProfile passed 
+2023-03-27 15:43:03,946 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 15:43:10,091 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:43:10,098 INFO  [Log] enterUsername passed 
+2023-03-27 15:43:18,964 INFO  [Log] userMenu passed 
+2023-03-27 15:43:23,108 INFO  [Log] myProfile passed 
+2023-03-27 15:43:23,599 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 15:44:48,443 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:44:48,555 INFO  [Log] enterUsername passed 
+2023-03-27 15:44:57,659 INFO  [Log] userMenu passed 
+2023-03-27 15:45:00,951 INFO  [Log] myProfile passed 
+2023-03-27 15:45:01,537 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 15:45:07,654 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 15:45:07,662 INFO  [Log] enterUsername passed 
+2023-03-27 15:45:16,244 INFO  [Log] userMenu passed 
+2023-03-27 15:45:19,808 INFO  [Log] myProfile passed 
+2023-03-27 15:45:20,289 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:17:57,742 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:17:57,785 INFO  [Log] enterUsername passed 
+2023-03-27 16:18:05,851 INFO  [Log] userMenu passed 
+2023-03-27 16:18:09,252 INFO  [Log] myProfile passed 
+2023-03-27 16:18:12,925 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:18:14,893 INFO  [Log] clickUploadPhoto passed 
+2023-03-27 16:18:26,854 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:18:26,859 INFO  [Log] enterUsername passed 
+2023-03-27 16:18:35,356 INFO  [Log] userMenu passed 
+2023-03-27 16:18:39,034 INFO  [Log] myProfile passed 
+2023-03-27 16:18:39,530 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:20:36,551 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:20:36,586 INFO  [Log] enterUsername passed 
+2023-03-27 16:20:46,331 INFO  [Log] userMenu passed 
+2023-03-27 16:20:49,853 INFO  [Log] myProfile passed 
+2023-03-27 16:20:51,155 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:20:57,573 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:20:57,578 INFO  [Log] enterUsername passed 
+2023-03-27 16:20:59,280 INFO  [Log] userMenu passed 
+2023-03-27 16:21:07,193 INFO  [Log] myProfile passed 
+2023-03-27 16:21:17,137 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:21:24,186 INFO  [Log] clickUploadPhoto passed 
+2023-03-27 16:49:41,883 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:49:41,934 INFO  [Log] enterUsername passed 
+2023-03-27 16:49:51,601 INFO  [Log] userMenu passed 
+2023-03-27 16:49:55,183 INFO  [Log] myProfile passed 
+2023-03-27 16:49:59,164 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:50:02,250 INFO  [Log] clickUploadPhoto passed 
+2023-03-27 16:50:09,175 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:50:09,185 INFO  [Log] enterUsername passed 
+2023-03-27 16:50:18,555 INFO  [Log] userMenu passed 
+2023-03-27 16:50:22,027 INFO  [Log] myProfile passed 
+2023-03-27 16:50:23,538 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:52:30,980 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:52:31,002 INFO  [Log] enterUsername passed 
+2023-03-27 16:52:40,136 INFO  [Log] userMenu passed 
+2023-03-27 16:52:43,997 INFO  [Log] myProfile passed 
+2023-03-27 16:52:45,194 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:52:51,806 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:52:51,810 INFO  [Log] enterUsername passed 
+2023-03-27 16:52:59,371 INFO  [Log] userMenu passed 
+2023-03-27 16:53:02,507 INFO  [Log] myProfile passed 
+2023-03-27 16:53:06,317 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:53:08,239 INFO  [Log] clickUploadPhoto passed 
+2023-03-27 16:59:28,888 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:59:28,909 INFO  [Log] enterUsername passed 
+2023-03-27 16:59:38,144 INFO  [Log] userMenu passed 
+2023-03-27 16:59:41,640 INFO  [Log] myProfile passed 
+2023-03-27 16:59:43,540 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 16:59:50,227 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 16:59:50,234 INFO  [Log] enterUsername passed 
+2023-03-27 16:59:52,152 INFO  [Log] userMenu passed 
+2023-03-27 17:00:00,948 INFO  [Log] myProfile passed 
+2023-03-27 17:00:09,747 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 17:00:15,888 INFO  [Log] clickUploadPhoto passed 
+2023-03-27 17:01:16,809 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:01:16,846 INFO  [Log] enterUsername passed 
+2023-03-27 17:01:25,718 INFO  [Log] userMenu passed 
+2023-03-27 17:01:30,199 INFO  [Log] myProfile passed 
+2023-03-27 17:01:30,994 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 17:01:36,992 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:01:36,997 INFO  [Log] enterUsername passed 
+2023-03-27 17:01:44,578 INFO  [Log] userMenu passed 
+2023-03-27 17:02:00,096 INFO  [Log] myProfile passed 
+2023-03-27 17:02:00,688 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 17:03:00,171 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:03:00,193 INFO  [Log] enterUsername passed 
+2023-03-27 17:03:01,309 INFO  [Log] userMenu passed 
+2023-03-27 17:03:09,624 INFO  [Log] myProfile passed 
+2023-03-27 17:03:18,494 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 17:03:25,174 INFO  [Log] clickUploadPhoto passed 
+2023-03-27 17:03:37,148 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:03:37,158 INFO  [Log] enterUsername passed 
+2023-03-27 17:03:38,737 INFO  [Log] userMenu passed 
+2023-03-27 17:03:47,335 INFO  [Log] myProfile passed 
+2023-03-27 17:03:47,772 INFO  [Log] addPhotoMouseOver passed 
+2023-03-27 17:19:54,182 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:20:16,230 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:31:04,448 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:31:29,034 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:33:53,401 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:34:15,920 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:39:19,803 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-27 17:39:46,717 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-31 21:56:35,546 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 21:56:43,663 INFO  [Log] clickLogin 
+2023-03-31 21:56:53,895 INFO  [Log] clickHomeTab 
+2023-03-31 21:59:00,563 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 21:59:09,963 INFO  [Log] clickLogin 
+2023-03-31 21:59:20,674 INFO  [Log] clickHomeTab 
+2023-03-31 22:00:56,210 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:01:05,543 INFO  [Log] clickLogin 
+2023-03-31 22:01:16,430 INFO  [Log] clickHomeTab 
+2023-03-31 22:03:00,799 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:03:10,809 INFO  [Log] clickLogin 
+2023-03-31 22:05:22,054 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:05:30,485 INFO  [Log] clickLogin 
+2023-03-31 22:05:40,280 INFO  [Log] clickHomeTab 
+2023-03-31 22:11:44,171 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:11:53,348 INFO  [Log] clickLogin 
+2023-03-31 22:12:03,556 INFO  [Log] clickHomeTab 
+2023-03-31 22:17:22,744 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:17:30,490 INFO  [Log] clickLogin 
+2023-03-31 22:17:40,547 INFO  [Log] clickHomeTab 
+2023-03-31 22:18:25,867 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:18:35,190 INFO  [Log] clickLogin 
+2023-03-31 22:18:44,835 INFO  [Log] clickHomeTab 
+2023-03-31 22:21:22,164 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:21:31,583 INFO  [Log] clickLogin 
+2023-03-31 22:21:41,335 INFO  [Log] clickHomeTab 
+2023-03-31 22:26:00,336 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:26:09,526 INFO  [Log] clickLogin 
+2023-03-31 22:26:20,222 INFO  [Log] clickHomeTab 
+2023-03-31 22:29:20,336 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:29:30,070 INFO  [Log] clickLogin 
+2023-03-31 22:29:41,110 INFO  [Log] clickHomeTab 
+2023-03-31 22:31:40,948 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:31:50,024 INFO  [Log] clickLogin 
+2023-03-31 22:31:59,754 INFO  [Log] clickHomeTab 
+2023-03-31 22:32:07,346 INFO  [Log] clickUserName 
+2023-03-31 22:34:41,296 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:34:51,114 INFO  [Log] clickLogin 
+2023-03-31 22:35:01,916 INFO  [Log] clickHomeTab 
+2023-03-31 22:38:23,836 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:38:32,981 INFO  [Log] clickLogin 
+2023-03-31 22:38:42,604 INFO  [Log] clickHomeTab 
+2023-03-31 22:38:46,735 INFO  [Log] clickUserName 
+2023-03-31 22:49:43,791 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 22:58:06,246 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-03-31 23:14:41,210 INFO  [Log] validateAllTab 
+2023-03-31 23:24:51,740 INFO  [Log] validateAllTab 
+2023-03-31 23:25:01,115 INFO  [Log] clickAllTab 
+2023-03-31 23:25:01,559 INFO  [Log] clickCustomizeMyTabsButton 
+2023-03-31 23:36:21,029 INFO  [Log] validateAllTab 
+2023-03-31 23:36:21,032 INFO  [Log] clickAllTab 
+2023-03-31 23:36:24,626 INFO  [Log] clickCustomizeMyTabsButton 
+2023-03-31 23:38:31,363 INFO  [Log] validateAllTab 
+2023-03-31 23:38:31,366 INFO  [Log] clickAllTab 
+2023-03-31 23:38:35,187 INFO  [Log] clickCustomizeMyTabsButton 
+2023-03-31 23:46:53,110 INFO  [Log] validateAllTab 
+2023-03-31 23:46:53,112 INFO  [Log] clickAllTab 
+2023-03-31 23:46:56,847 INFO  [Log] clickCustomizeMyTabsButton 
+2023-03-31 23:50:36,916 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-31 23:52:21,062 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-31 23:52:40,533 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-31 23:58:31,923 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-03-31 23:58:50,629 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-01 00:02:35,823 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-01 00:02:56,173 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-01 00:03:23,473 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 16:42:40,377 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 16:42:59,962 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 16:43:25,705 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 16:46:05,185 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 16:46:26,388 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 16:51:15,543 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 16:51:30,203 INFO  [Log] mySettings 
+2023-04-02 16:51:34,009 INFO  [Log] downloadLoginHistory 
+2023-04-02 16:52:54,290 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 16:53:08,982 INFO  [Log] mySettings 
+2023-04-02 16:53:10,521 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:03:23,814 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:03:37,003 INFO  [Log] mySettings 
+2023-04-02 17:03:45,466 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:03:56,820 INFO  [Log] 1 
+2023-04-02 17:03:58,262 INFO  [Log] 2 
+2023-04-02 17:03:58,541 INFO  [Log] 3 
+2023-04-02 17:03:59,205 INFO  [Log] clickSaveReport 
+2023-04-02 17:05:55,499 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:07:56,383 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:08:09,391 INFO  [Log] mySettings 
+2023-04-02 17:08:12,184 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:08:24,019 INFO  [Log] 1 
+2023-04-02 17:12:59,105 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:13:12,540 INFO  [Log] mySettings 
+2023-04-02 17:13:56,009 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:14:10,347 INFO  [Log] mySettings 
+2023-04-02 17:14:11,809 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:14:23,563 INFO  [Log] 1 
+2023-04-02 17:14:24,776 INFO  [Log] 2 
+2023-04-02 17:14:24,961 INFO  [Log] 3 
+2023-04-02 17:14:25,518 INFO  [Log] clickSaveReport 
+2023-04-02 17:14:27,167 INFO  [Log] 1 
+2023-04-02 17:47:15,770 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:47:28,530 INFO  [Log] mySettings 
+2023-04-02 17:47:32,424 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:47:43,115 INFO  [Log] 1 
+2023-04-02 17:47:44,388 INFO  [Log] 2 
+2023-04-02 17:47:44,485 INFO  [Log] 3 
+2023-04-02 17:47:45,025 INFO  [Log] clickSaveReport 
+2023-04-02 17:47:46,699 INFO  [Log] 1 
+2023-04-02 17:49:02,304 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:49:16,090 INFO  [Log] mySettings 
+2023-04-02 17:49:24,942 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:49:35,982 INFO  [Log] 1 
+2023-04-02 17:50:14,579 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:50:27,491 INFO  [Log] mySettings 
+2023-04-02 17:50:29,594 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:50:40,732 INFO  [Log] 1 
+2023-04-02 17:50:42,087 INFO  [Log] 2 
+2023-04-02 17:50:42,163 INFO  [Log] 3 
+2023-04-02 17:50:42,778 INFO  [Log] clickSaveReport 
+2023-04-02 17:50:44,330 INFO  [Log] 1 
+2023-04-02 17:51:52,119 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:52:05,586 INFO  [Log] mySettings 
+2023-04-02 17:52:08,057 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:52:18,806 INFO  [Log] 1 
+2023-04-02 17:52:20,082 INFO  [Log] 2 
+2023-04-02 17:52:20,150 INFO  [Log] 3 
+2023-04-02 17:52:20,685 INFO  [Log] clickSaveReport 
+2023-04-02 17:52:22,269 INFO  [Log] 1 
+2023-04-02 17:54:03,081 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:54:16,445 INFO  [Log] mySettings 
+2023-04-02 17:54:18,672 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:54:30,746 INFO  [Log] 1 
+2023-04-02 17:54:31,935 INFO  [Log] 2 
+2023-04-02 17:54:32,051 INFO  [Log] 3 
+2023-04-02 17:54:32,679 INFO  [Log] clickSaveReport 
+2023-04-02 17:54:34,552 INFO  [Log] 1 
+2023-04-02 17:58:20,518 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 17:58:33,937 INFO  [Log] mySettings 
+2023-04-02 17:58:43,146 INFO  [Log] downloadLoginHistory 
+2023-04-02 17:58:54,192 INFO  [Log] 1 
+2023-04-02 17:58:55,518 INFO  [Log] 2 
+2023-04-02 17:58:55,603 INFO  [Log] 3 
+2023-04-02 17:58:56,193 INFO  [Log] clickSaveReport 
+2023-04-02 17:58:57,814 INFO  [Log] 1 
+2023-04-02 18:03:19,007 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:03:32,330 INFO  [Log] mySettings 
+2023-04-02 18:03:34,859 INFO  [Log] downloadLoginHistory 
+2023-04-02 18:03:46,159 INFO  [Log] 1 
+2023-04-02 18:03:47,684 INFO  [Log] 2 
+2023-04-02 18:03:47,757 INFO  [Log] 3 
+2023-04-02 18:03:48,293 INFO  [Log] clickSaveReport 
+2023-04-02 18:03:49,878 INFO  [Log] 1 
+2023-04-02 18:07:00,336 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:07:13,179 INFO  [Log] mySettings 
+2023-04-02 18:07:17,004 INFO  [Log] downloadLoginHistory 
+2023-04-02 18:07:17,005 INFO  [Log] 1 
+2023-04-02 18:07:26,188 INFO  [Log] 2 
+2023-04-02 18:07:26,367 INFO  [Log] 3 
+2023-04-02 18:07:26,752 INFO  [Log] 4 
+2023-04-02 18:07:28,135 INFO  [Log] clickSaveBtn 
+2023-04-02 18:07:28,561 INFO  [Log] clickOpenaTestReminder 
+2023-04-02 18:18:20,185 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:19:25,224 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:23:08,860 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:27:54,180 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:28:52,673 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:32:52,466 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:34:14,308 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:37:42,174 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:39:15,285 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:42:35,894 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:44:55,850 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:46:09,486 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 18:47:50,989 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 19:06:41,942 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 19:12:04,392 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 19:14:06,011 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 19:14:54,773 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 19:18:34,956 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 19:19:54,226 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 19:21:52,293 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 19:27:15,328 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:19:16,933 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:22:26,630 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:22:26,634 INFO  [Log] enterUsername passed 
+2023-04-02 20:22:35,893 INFO  [Log] userMenu passed 
+2023-04-02 20:22:39,140 INFO  [Log] myProfile passed 
+2023-04-02 20:22:56,304 INFO  [Log] About Tab passed 
+2023-04-02 20:23:02,938 INFO  [Log] Share Post passed 
+2023-04-02 20:23:09,802 INFO  [Log] Share file passed 
+2023-04-02 20:23:55,441 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:23:55,446 INFO  [Log] enterUsername passed 
+2023-04-02 20:24:05,004 INFO  [Log] userMenu passed 
+2023-04-02 20:24:08,362 INFO  [Log] myProfile passed 
+2023-04-02 20:24:09,797 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:26:29,210 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:26:29,215 INFO  [Log] enterUsername passed 
+2023-04-02 20:26:35,594 INFO  [Log] userMenu passed 
+2023-04-02 20:26:40,346 INFO  [Log] myProfile passed 
+2023-04-02 20:26:42,023 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:28:29,086 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:28:29,091 INFO  [Log] enterUsername passed 
+2023-04-02 20:28:30,842 INFO  [Log] userMenu passed 
+2023-04-02 20:28:35,728 INFO  [Log] myProfile passed 
+2023-04-02 20:28:46,634 INFO  [Log] To Upload Photo 
+2023-04-02 20:28:51,839 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:28:52,769 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:30:57,745 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:30:57,750 INFO  [Log] enterUsername passed 
+2023-04-02 20:31:07,335 INFO  [Log] userMenu passed 
+2023-04-02 20:31:10,894 INFO  [Log] myProfile passed 
+2023-04-02 20:31:12,127 INFO  [Log] To Upload Photo 
+2023-04-02 20:31:17,324 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:31:23,437 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:32:01,950 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:32:01,955 INFO  [Log] enterUsername passed 
+2023-04-02 20:32:11,152 INFO  [Log] userMenu passed 
+2023-04-02 20:32:14,585 INFO  [Log] myProfile passed 
+2023-04-02 20:32:16,016 INFO  [Log] To Upload Photo 
+2023-04-02 20:32:21,212 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:32:31,779 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:35:16,909 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:35:16,915 INFO  [Log] enterUsername passed 
+2023-04-02 20:35:26,264 INFO  [Log] userMenu passed 
+2023-04-02 20:35:29,724 INFO  [Log] myProfile passed 
+2023-04-02 20:35:31,330 INFO  [Log] To Upload Photo 
+2023-04-02 20:35:36,531 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:35:47,622 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:36:56,997 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:36:57,006 INFO  [Log] enterUsername passed 
+2023-04-02 20:37:07,549 INFO  [Log] userMenu passed 
+2023-04-02 20:37:11,035 INFO  [Log] myProfile passed 
+2023-04-02 20:37:15,082 INFO  [Log] To Upload Photo 
+2023-04-02 20:37:20,308 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:37:31,236 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:41:09,331 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:41:09,337 INFO  [Log] enterUsername passed 
+2023-04-02 20:41:18,716 INFO  [Log] userMenu passed 
+2023-04-02 20:41:22,374 INFO  [Log] myProfile passed 
+2023-04-02 20:41:26,130 INFO  [Log] To Upload Photo 
+2023-04-02 20:41:31,337 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:42:31,960 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:42:31,966 INFO  [Log] enterUsername passed 
+2023-04-02 20:42:40,753 INFO  [Log] userMenu passed 
+2023-04-02 20:42:44,101 INFO  [Log] myProfile passed 
+2023-04-02 20:42:45,475 INFO  [Log] To Upload Photo 
+2023-04-02 20:42:50,670 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:42:50,752 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:43:40,750 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:43:40,755 INFO  [Log] enterUsername passed 
+2023-04-02 20:43:49,838 INFO  [Log] userMenu passed 
+2023-04-02 20:43:53,274 INFO  [Log] myProfile passed 
+2023-04-02 20:43:57,037 INFO  [Log] To Upload Photo 
+2023-04-02 20:44:02,242 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:44:03,697 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:44:53,654 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:44:53,659 INFO  [Log] enterUsername passed 
+2023-04-02 20:45:02,813 INFO  [Log] userMenu passed 
+2023-04-02 20:45:06,287 INFO  [Log] myProfile passed 
+2023-04-02 20:45:09,944 INFO  [Log] To Upload Photo 
+2023-04-02 20:45:15,132 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:46:32,339 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:46:32,344 INFO  [Log] enterUsername passed 
+2023-04-02 20:46:41,499 INFO  [Log] userMenu passed 
+2023-04-02 20:46:45,100 INFO  [Log] myProfile passed 
+2023-04-02 20:46:48,923 INFO  [Log] To Upload Photo 
+2023-04-02 20:46:55,262 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:46:55,963 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:48:25,815 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:48:25,820 INFO  [Log] enterUsername passed 
+2023-04-02 20:48:35,303 INFO  [Log] userMenu passed 
+2023-04-02 20:48:38,685 INFO  [Log] myProfile passed 
+2023-04-02 20:48:42,368 INFO  [Log] To Upload Photo 
+2023-04-02 20:48:47,572 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:48:49,083 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:50:09,630 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:50:09,641 INFO  [Log] enterUsername passed 
+2023-04-02 20:50:18,907 INFO  [Log] userMenu passed 
+2023-04-02 20:50:22,502 INFO  [Log] myProfile passed 
+2023-04-02 20:50:26,181 INFO  [Log] To Upload Photo 
+2023-04-02 20:50:31,382 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:50:32,893 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:51:50,827 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:51:50,832 INFO  [Log] enterUsername passed 
+2023-04-02 20:51:59,925 INFO  [Log] userMenu passed 
+2023-04-02 20:52:03,340 INFO  [Log] myProfile passed 
+2023-04-02 20:52:07,201 INFO  [Log] To Upload Photo 
+2023-04-02 20:52:12,407 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:52:16,907 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:56:12,001 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:56:12,007 INFO  [Log] enterUsername passed 
+2023-04-02 20:56:21,238 INFO  [Log] userMenu passed 
+2023-04-02 20:56:24,660 INFO  [Log] myProfile passed 
+2023-04-02 20:56:26,172 INFO  [Log] To Upload Photo 
+2023-04-02 20:56:31,372 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:57:14,357 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:57:14,364 INFO  [Log] enterUsername passed 
+2023-04-02 20:57:23,339 INFO  [Log] userMenu passed 
+2023-04-02 20:57:26,787 INFO  [Log] myProfile passed 
+2023-04-02 20:57:28,484 INFO  [Log] To Upload Photo 
+2023-04-02 20:57:33,686 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:57:39,734 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:58:24,125 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:58:24,130 INFO  [Log] enterUsername passed 
+2023-04-02 20:58:33,079 INFO  [Log] userMenu passed 
+2023-04-02 20:58:36,206 INFO  [Log] myProfile passed 
+2023-04-02 20:58:40,242 INFO  [Log] To Upload Photo 
+2023-04-02 20:58:45,442 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 20:58:47,642 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 20:59:45,660 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 20:59:45,666 INFO  [Log] enterUsername passed 
+2023-04-02 20:59:54,221 INFO  [Log] userMenu passed 
+2023-04-02 20:59:57,898 INFO  [Log] myProfile passed 
+2023-04-02 20:59:59,225 INFO  [Log] To Upload Photo 
+2023-04-02 21:00:04,474 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 21:00:09,079 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 21:04:48,698 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 21:04:48,703 INFO  [Log] enterUsername passed 
+2023-04-02 21:04:58,393 INFO  [Log] userMenu passed 
+2023-04-02 21:05:01,847 INFO  [Log] myProfile passed 
+2023-04-02 21:05:05,487 INFO  [Log] To Upload Photo 
+2023-04-02 21:05:10,735 INFO  [Log] addPhotoMouseOver passed 
+2023-04-02 21:05:15,767 INFO  [Log] clickUploadPhoto passed 
+2023-04-02 21:05:22,591 INFO  [Log] clickSavePhoto passed 
+2023-04-02 21:05:25,705 INFO  [Log] cropPhoto passed 
+2023-04-02 21:05:26,316 INFO  [Log] saveCroppedImg Photo upload passed 
+2023-04-02 21:06:57,111 INFO  [Log] ****************           -S-T-A-R-T-UserMenuDropDown       **************** 
+2023-04-02 21:06:57,118 INFO  [Log] enterUsername passed 
+2023-04-02 21:07:06,662 INFO  [Log] userMenu passed 
+2023-04-02 21:07:11,033 INFO  [Log] myProfile passed 
+2023-04-02 21:07:27,394 INFO  [Log] About Tab passed 
+2023-04-02 21:07:34,000 INFO  [Log] Share Post passed 
+2023-04-02 21:07:40,904 INFO  [Log] Share file passed 
+2023-04-02 21:07:40,905 INFO  [Log] To Upload Photo 
+2023-04-02 22:23:04,122 INFO  [Log] ****************           -S-T-A-R-T-TC33       **************** 
+2023-04-02 22:24:24,115 INFO  [Log] validateAllTab 
+2023-04-02 22:24:24,116 INFO  [Log] clickAllTab 
+2023-04-02 22:24:28,024 INFO  [Log] clickCustomizeMyTabsButton 

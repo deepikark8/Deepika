@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Salesforce">
+
+	<parameter name="url" value="https://teka-dev-ed.develop.my.salesforce.com/" />
+	<parameter name="username" value="deepika@mh.com" />
+	<parameter name="password" value="password@123" />
+	
+    <test name="Login">
+         <classes>
+           	    <!--<class name = "com.salesforce.testcases.LoginTest"/> -->
+                 <!-- <class name = "com.salesforce.testcases.UserMenuDropDownTest"/> -->
+                  <!-- <class name = "com.salesforce.testcases.CreateAccountTest"/>  -->
+                      <!-- <class name = "com.salesforce.testcases.CreateOpportunityTest"/> -->
+                     <!-- <class name = "com.salesforce.testcases.LeadsTest"/> -->
+                      <!--<class name = "com.salesforce.testcases.ContactsTest"/> -->   
+                   <class name = "com.salesforce.testcases.RandomScenariosTest"/> 
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
