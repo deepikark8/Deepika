@@ -1,0 +1,4 @@
+com/amazon/tests/SignInTest.class
+com/amazon/tests/HomeTest.class
+com/amazon/pages/SignInPage.class
+com/amazon/pages/HomePage.class

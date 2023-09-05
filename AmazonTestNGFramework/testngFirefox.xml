@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+</test> <!-- Test -->
+
+<!--<groups>
+	<run>
+		<exclude name="smoke"></exclude>
+	</run>
+
+</groups>-->
+
+
+<parameter name="browser" value="firefox" />
+<parameter name="username" value="ramkumara83@gmail.com"></parameter> 
+<parameter name="password" value="harsha4Vardhan"></parameter>
+
+<listeners>
+	<listener class-name="com.amazon.listerners.TestListener"/>
+</listeners> 
+
+
+<test name="Login">
+         <classes>
+          <class name = "com.amazon.tests.SignInTest"/> 
+            <!--<class name = "Tests.HomeTest"/>-->
+          </classes>
+</test> <!-- Test -->
+     
+     
+</suite> <!-- Suite -->

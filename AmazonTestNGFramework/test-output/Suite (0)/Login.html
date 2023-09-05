@@ -1,0 +1,233 @@
+<html>
+<head>
+<title>TestNG:  Login</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Login</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>0/2/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Sep 05 13:09:50 PDT 2023</td>
+</tr>
+<tr><td>Total time:</td><td>68 seconds (68285 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.amazon.tests.SignInTest.SignIn()'><b>SignIn</b><br>Test class: com.amazon.tests.SignInTest</td>
+<td><div><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.140)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;13.4.1&apos;, java.version: &apos;17.0.5&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a87c4b1c4329f3d3c1b6503b61b1ab9d, clickElement {id=B1C18A3722556DB0938334FBB9F8C31C_element_34}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.140, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/9m/0j83878557z...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63853}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63853/devtoo..., se:cdpVersion: 116.0.5845.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (a87c4b1c4329f3d3c1b6503b61b1ab9d)] -&gt; xpath: //input[@id=&apos;ap_email&apos;]]
+Session ID: a87c4b1c4329f3d3c1b6503b61b1ab9d
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy18.click(Unknown Source)
+	at com.amazon.pages.SignInPage.clickSign(SignInPage.java:115)
+	at com.amazon.tests.SignInTest.SignIn(SignInTest.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 21 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace70767671", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace70767671'><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.140)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;13.4.1&apos;, java.version: &apos;17.0.5&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a87c4b1c4329f3d3c1b6503b61b1ab9d, clickElement {id=B1C18A3722556DB0938334FBB9F8C31C_element_34}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.140, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/9m/0j83878557z...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63853}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63853/devtoo..., se:cdpVersion: 116.0.5845.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (a87c4b1c4329f3d3c1b6503b61b1ab9d)] -&gt; xpath: //input[@id=&apos;ap_email&apos;]]
+Session ID: a87c4b1c4329f3d3c1b6503b61b1ab9d
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy18.click(Unknown Source)
+	at com.amazon.pages.SignInPage.clickSign(SignInPage.java:115)
+	at com.amazon.tests.SignInTest.SignIn(SignInTest.java:75)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>42</td>
+<td>com.amazon.tests.SignInTest@7b36aa0c</td></tr>
+<tr>
+<td title='com.amazon.tests.HomeTest.enterTextInSearch()'><b>enterTextInSearch</b><br>Test class: com.amazon.tests.HomeTest</td>
+<td><div><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.140)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;13.4.1&apos;, java.version: &apos;17.0.5&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18ed859d53f139f52e229e5b57b1062e, clickElement {id=5D3143E3F47324F815DBD62DBF94BF9C_element_35}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.140, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/9m/0j83878557z...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63854}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63854/devtoo..., se:cdpVersion: 116.0.5845.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (18ed859d53f139f52e229e5b57b1062e)] -&gt; xpath: //input[@id=&apos;ap_email&apos;]]
+Session ID: 18ed859d53f139f52e229e5b57b1062e
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy18.click(Unknown Source)
+	at com.amazon.pages.SignInPage.clickSign(SignInPage.java:115)
+	at com.amazon.tests.HomeTest.enterTextInSearch(HomeTest.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+... Removed 21 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1776091548", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1776091548'><pre>org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=116.0.5845.140)
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;13.4.1&apos;, java.version: &apos;17.0.5&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [18ed859d53f139f52e229e5b57b1062e, clickElement {id=5D3143E3F47324F815DBD62DBF94BF9C_element_35}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.140, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: /var/folders/9m/0j83878557z...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63854}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63854/devtoo..., se:cdpVersion: 116.0.5845.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (18ed859d53f139f52e229e5b57b1062e)] -&gt; xpath: //input[@id=&apos;ap_email&apos;]]
+Session ID: 18ed859d53f139f52e229e5b57b1062e
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy18.click(Unknown Source)
+	at com.amazon.pages.SignInPage.clickSign(SignInPage.java:115)
+	at com.amazon.tests.HomeTest.enterTextInSearch(HomeTest.java:48)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+</pre></div></td>
+<td>42</td>
+<td>com.amazon.tests.HomeTest@5824a83d</td></tr>
+</table><p>
+</body>
+</html>
